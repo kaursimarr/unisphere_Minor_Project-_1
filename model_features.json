@@ -1,0 +1,13 @@
+{
+    "order": [
+        "GRE",
+        "TOEFL",
+        "Rating",
+        "CGPA"
+    ],
+    "scaled": [
+        "GRE",
+        "TOEFL",
+        "CGPA"
+    ]
+}
